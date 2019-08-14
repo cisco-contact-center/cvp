@@ -2,7 +2,7 @@
 ## Preconditions
 * Create the Google DialogFlow Agent by defining Intents / Entities.
 * Define the required parameter and corresponding prompts for parameter for each Intent.
-* Perform the fulfilment if you want to use DialogFlow Webhook based fulfilment (DFAudio Flow)
+* Perform the fulfilment if you want to use DialogFlow Webhook based fulfilment (DFText Flow)
 * Configure the Dialogflow Key as suggested in Config guide in "Configuring Google Dialogflow Service" section.
 * Configure the TTS Key as suggested in Config guide in "Configuring Google Dialogflow Service" section.
 
