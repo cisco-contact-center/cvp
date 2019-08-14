@@ -2,7 +2,7 @@
 <voice_element id="Element@1161220051:1560735241163" name="DialogFlow" version="6.0.1">
 <config>
 <settings>
-<setting name="project_id">telecom-c18ac</setting>
+<setting name="project_id">ciscoss-dev-9gkv</setting>
 <setting name="language">en-in</setting>
 <setting name="output_as_audio">true</setting>
 <setting name="noinput_timeout">5s</setting>
