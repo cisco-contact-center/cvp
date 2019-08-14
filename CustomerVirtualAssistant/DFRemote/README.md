@@ -1,4 +1,4 @@
-# Call Studio DFText Application for Dialogflow element
+# Call Studio DFRemote Application for DialogflowIntent / DialogflowParam element
 
 ## Preconditions
 * Create the Google DialogFlow Agent by defining Intents / Entities.
